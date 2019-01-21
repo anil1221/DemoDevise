@@ -1,0 +1,16 @@
+{
+  "name": "DemoDevise",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "jquery-ujs": "^1.2.2",
+    "popper.js": "^1.14.6",
+    "rails-ujs": "^5.2.2",
+    "turbolinks": "^5.2.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
